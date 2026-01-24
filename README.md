@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @LakshmiMishra
+### Hi there 👋  
+I'm Lakshmi, a .NET developer focused on building scalable, cloud‑native applications on Azure. I enjoy clean architecture, API design, and solving real‑world engineering problems.
 
-<!---
-LakshmiMishra/LakshmiMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 🔧 Tech Stack   
+.NET • C# • Azure • REST APIs • SQL • Docker • CI/CD
+
+### 📌 What I'm Working On  
+- Building cloud‑native services with .NET  
+- Exploring Azure architecture patterns  
+- Improving skills in distributed systems and DevOps
+
+### 📫 Connect 
+[LinkedIn](https://www.linkedin.com/in/lakshmimishra-dubey/)
+
+
+
+
