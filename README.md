@@ -3,7 +3,7 @@ I'm Lakshmi, a .NET developer focused on building scalable, cloud‑native appli
 
 
 ### 🔧 Tech Stack   
-.NET • C# • Azure • REST APIs • SQL • Docker • CI/CD
+.NET • C# • Azure • REST APIs • Graph QL • SQL • Docker • CI/CD • SeriLog
 
 ### 📌 What I'm Working On  
 - Building cloud‑native services with .NET  
