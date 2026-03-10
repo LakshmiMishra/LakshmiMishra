@@ -11,7 +11,7 @@ I'm Lakshmi, a .NET developer focused on building scalable, cloud‑native appli
 - Improving skills in distributed systems and DevOps
 
 ### 📫 Connect 
-[LinkedIn](https://www.linkedin.com/in/lakshmimishra-dubey/)
+[LinkedIn](https://www.linkedin.com/in/lakshmimishra-dubey/) | 
 [Blog](https://lakshmimishra.medium.com/)
 
 
