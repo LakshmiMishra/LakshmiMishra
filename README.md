@@ -6,7 +6,7 @@
 </p>
 
 ### 🔧 Tech Stack   
-.NET • C# • Azure • REST APIs • Graph QL • SQL • Docker • CI/CD • SeriLog • Angular • React •System Design  • DSA
+• C# • .NETCore • .NET 7/8  • C# • Azure • REST APIs • Angular • React • Graph QL • SQL • Mongo DB • Microservices • Docker • CI/CD • SeriLog  •System Design  • DSA
 
 💻 Full Stack Developer specializing in .NET & Angular/React
 
