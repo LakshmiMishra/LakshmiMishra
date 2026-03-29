@@ -8,7 +8,7 @@
 ### 🔧 Tech Stack   
 • C# • .NETCore • .NET 7/8  • C# • Azure • REST APIs • Angular • React • Graph QL • SQL • Mongo DB • Microservices • Docker • CI/CD • SeriLog  •System Design  • DSA
 
-💻 Full Stack Developer specializing in .NET & Angular/React
+💻 Full Stack Developer specializing in .NET , Angular/React & Cloud
 
 ☁️ Building cloud applications on Azure
 🧠 Interested in System Design & Distributed Systems
