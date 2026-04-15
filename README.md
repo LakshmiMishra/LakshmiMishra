@@ -16,7 +16,7 @@
 🎯 Preparing for Senior .NET Developer roles 
 
 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/lakshmimishra-dubey/) | [Blog](https://lakshmimishra.medium.com/)  | [LeetCode](https://leetcode.com/u/LakshmiMishra/)
+[LinkedIn](https://www.linkedin.com/in/lakshmimishra-dubey/) | [Blog](https://lakshmimishra.medium.com/)  | [LeetCode](https://leetcode.com/u/LakshmiMishra/) | 
 [NewsLetter](https://www.linkedin.com/newsletters/the-dev-growth-series-7445322224485543936/)
 
 
